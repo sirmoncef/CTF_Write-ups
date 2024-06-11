@@ -16,6 +16,6 @@ Static resources:
 ### Solve :
  u can use jssfuck to encode and send to the erver and get th flag 
 
-`http://challs.bcactf.com:30390/51/Flag/Holder`
+
 and yeah we got our flag 
 **bcactf{1ava5cRIPT_mAk35_S3Nse_48129846}**
