@@ -7,9 +7,9 @@
 What have you done to my flag?
 
 Static resources:
- [here](https://2024.csc.tf/files/6a1ed4ed11e8ccf41b22911c6501afac/chall.py?token=eyJ1c2VyX2lkIjoxNDkzLCJ0ZWFtX2lkIjo3ODYsImZpbGVfaWQiOjU2fQ.ZtTXXA.Kc-iviNIs6fCP9iBJpKafYqzLaQ).
+ [chall.py](https://2024.csc.tf/files/6a1ed4ed11e8ccf41b22911c6501afac/chall.py?token=eyJ1c2VyX2lkIjoxNDkzLCJ0ZWFtX2lkIjo3ODYsImZpbGVfaWQiOjU2fQ.ZtTXXA.Kc-iviNIs6fCP9iBJpKafYqzLaQ).
 
-[here](https://2024.csc.tf/files/1441cc7ffc6a69b1946f0691ea88e17b/enc.png?token=eyJ1c2VyX2lkIjoxNDkzLCJ0ZWFtX2lkIjo3ODYsImZpbGVfaWQiOjU3fQ.ZtTYnQ.lxW-G_Z2OPlttwAEHd3U_pYpcvY)
+[enc.png](https://2024.csc.tf/files/1441cc7ffc6a69b1946f0691ea88e17b/enc.png?token=eyJ1c2VyX2lkIjoxNDkzLCJ0ZWFtX2lkIjo3ODYsImZpbGVfaWQiOjU3fQ.ZtTYnQ.lxW-G_Z2OPlttwAEHd3U_pYpcvY)
 
 
 
@@ -17,7 +17,7 @@ Static resources:
 
 ### Solve :
 
-[text](Solve.py)
+[Solve.py](Solve.py)
 
 
 
