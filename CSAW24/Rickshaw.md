@@ -9,7 +9,7 @@ I saw this cool vehicle while traveling around India. Unfortunately, I lost most
 
 ### Solve :
 
-we reverse the image it redirect us to a youtbe video of a company 
+we reverse the image , it redirects us to a youtbe video of a company 
 
 we search more about the company we can find the number in the faceebook page
 
